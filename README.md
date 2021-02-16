@@ -1,6 +1,8 @@
 # buildfarm-example
 Simple Bazel project using Buildfarm distributed builds
 
+Latest Buildfarm built with v4.0.0
+
 Platform: cpu
 Builing target for cpu platform should happen on the worker in the cpu queue
 command that works:
